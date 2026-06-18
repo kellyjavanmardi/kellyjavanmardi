@@ -4,7 +4,7 @@ I build the systems that turn early-stage GTM motion into repeatable revenue.
 
 For 10+ years I've been the **first GTM ops hire** at venture-backed startups — architecting CRM, automation pipelines, lead intelligence, and analytics from scratch. Four of those companies were acquired (by Apple, Zillow, Booking.com, and Socure).
 
-Most recently I was **Founding GTM Engineer at [Keycard](https://keycard.dev)** — an AI agent identity and access management company backed by a16z — where I built the GTM infrastructure from zero to Series A.
+Most recently I was **Founding GTM Engineer at [Keycard](https://keycard.dev)** — an early stage AI agent identity and access management company backed by a16z — where I built the GTM infrastructure from zero.
 
 ---
 
@@ -23,7 +23,9 @@ I build primarily with AI assistance (Claude, OpenAI) and no-code/low-code platf
 
 ## Stack
 
-**CRM & Sales** — Salesforce · HubSpot · Attio · Apollo · Mixmax · Outreach
+**CRM & Sales** — Salesforce · HubSpot · Attio · Apollo · Mixmax · Outreach · Salesloft · Chilipiper · HeyReach · Gong
+
+**Marketing** — HubSpot · Marketo · 6Sense · 6Sense
 
 **Data & Enrichment** — Clay · Segment · PostHog · Google Analytics · Looker
 
