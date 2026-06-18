@@ -25,13 +25,15 @@ I build primarily with AI assistance (Claude, OpenAI) and no-code/low-code platf
 
 **CRM & Sales** — Salesforce · HubSpot · Attio · Apollo · Mixmax · Outreach · Salesloft · Chilipiper · HeyReach · Gong · ZoomInfo
 
-**Marketing** — HubSpot · Marketo · 6Sense
+**Marketing** — HubSpot · Marketo · 6Sense · Google Ads · LinkedIn Ads · Webflow
 
 **Data & Enrichment** — Clay · Clearbit · Segment · PostHog · Google Analytics · Looker
 
 **Automation** — n8n · Make · Zapier
 
 **AI** — Claude · OpenAI · n8n agentic workflows
+
+**Build & Deploy** — GitHub · Vercel
 
 **Productivity & Ops** — Linear · Notion · Airtable · Granola
 
