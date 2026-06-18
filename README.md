@@ -1,8 +1,8 @@
 # Kelly Javanmardi — GTM Engineer
 
-I build the systems that turn early-stage GTM motion into repeatable revenue.
+I build the systems that turn GTM motion into repeatable revenue.
 
-For 10+ years at venture-backed startups, I've owned **GTM infrastructure end-to-end** — CRM, automation pipelines, lead intelligence, and analytics. Four of those companies were acquired (by Apple, Zillow, Booking.com, and Socure).
+For 10+ years at high-growth technology companies, I've owned **GTM infrastructure end-to-end** — CRM, automation pipelines, lead intelligence, and analytics. Four of those companies were acquired (by Apple, Zillow, Booking.com, and Socure).
 
 Most recently I was **Founding GTM Engineer at [Keycard](https://keycard.dev)** — an early stage AI agent identity and access management company backed by a16z — where I built the GTM infrastructure from zero.
 
