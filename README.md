@@ -1,6 +1,6 @@
 # Kelly Javanmardi — GTM Engineer
 
-I build the systems that turn GTM motion into repeatable revenue.
+I build out the systems and processes that turn GTM motion into repeatable revenue.
 
 For 10+ years at high-growth technology companies, I've owned **GTM infrastructure end-to-end** — CRM, automation pipelines, lead intelligence, and analytics. Four of those companies were acquired (by Apple, Zillow, Booking.com, and Socure).
 
