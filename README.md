@@ -2,7 +2,7 @@
 
 I build the systems that turn early-stage GTM motion into repeatable revenue.
 
-For 10+ years I've been the **first GTM ops hire** at venture-backed startups — architecting CRM, automation pipelines, lead intelligence, and analytics from scratch. Four of those companies were acquired (by Apple, Zillow, Booking.com, and Socure).
+Across 10+ years at venture-backed startups, I've owned **GTM infrastructure end-to-end** — CRM, automation pipelines, lead intelligence, and analytics. Four of those companies were acquired (by Apple, Zillow, Booking.com, and Socure).
 
 Most recently I was **Founding GTM Engineer at [Keycard](https://keycard.dev)** — an early stage AI agent identity and access management company backed by a16z — where I built the GTM infrastructure from zero.
 
