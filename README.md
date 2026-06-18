@@ -25,7 +25,7 @@ I build primarily with AI assistance (Claude, OpenAI) and no-code/low-code platf
 
 **CRM & Sales** — Salesforce · HubSpot · Attio · Apollo · Mixmax · Outreach · Salesloft · Chilipiper · HeyReach · Gong
 
-**Marketing** — HubSpot · Marketo · 6Sense · 6Sense
+**Marketing** — HubSpot · Marketo · 6Sense
 
 **Data & Enrichment** — Clay · Segment · PostHog · Google Analytics · Looker
 
