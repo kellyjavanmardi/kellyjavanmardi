@@ -44,6 +44,7 @@ I build primarily with AI assistance (Claude, OpenAI) and no-code/low-code platf
 | Repo | Description |
 |------|-------------|
 | [gtm-automation-playbooks](https://github.com/kellyjavanmardi/gtm-automation-playbooks) | n8n workflows for lead enrichment, routing, ICP scoring, and intent signal sequencing — built on HubSpot and Clay |
+| [gtm-stack-reference](https://github.com/kellyjavanmardi/gtm-stack-reference) | Opinionated GTM stack guide by company stage (Seed → Series B+), with tool comparisons and category deep-dives |
 
 ---
 
