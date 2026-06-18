@@ -1,0 +1,44 @@
+# Kelly Javanmardi — GTM Engineer
+
+I build the systems that turn early-stage GTM motion into repeatable revenue.
+
+For 10+ years I've been the **first GTM ops hire** at venture-backed startups — architecting CRM, automation pipelines, lead intelligence, and analytics from scratch. Four of those companies were acquired (by Apple, Zillow, Booking.com, and Socure).
+
+Most recently I was **Founding GTM Engineer at [Keycard](https://keycard.dev)** — an AI agent identity and access management company backed by a16z — where I built the GTM infrastructure from zero to Series A.
+
+---
+
+## What I build
+
+I sit at the intersection of GTM strategy and technical execution. My work tends to fall into a few categories:
+
+- **CRM architecture** — data models, lifecycle stages, attribution logic, territory design
+- **Automation pipelines** — lead routing, enrichment workflows, signal-based sequencing
+- **Revenue intelligence** — pipeline health dashboards, conversion analytics, ICP scoring
+- **AI-native GTM tooling** — agentic workflows that replace manual ops work
+
+I build primarily with AI assistance (Claude, OpenAI) and no-code/low-code platforms — because the best GTM system is the one that's fast to build, easy to maintain, and directly tied to pipeline outcomes.
+
+---
+
+## Stack
+
+**CRM & Sales** — Salesforce · HubSpot · Attio · Apollo · Mixmax · Outreach
+
+**Data & Enrichment** — Clay · Segment · PostHog · Google Analytics · Looker
+
+**Automation** — n8n · Make · Zapier
+
+**AI** — Claude · OpenAI · n8n agentic workflows
+
+---
+
+## What's here
+
+This is where I publish the workflows, templates, and reference architectures I've built over the years — the stuff I wish existed when I was starting from scratch at each new company.
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/kellyjavanmardi) · kelly.javanmardi@gmail.com
